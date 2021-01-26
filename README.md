@@ -1,5 +1,5 @@
 # GoMarketplace
-Desafio do Bootcamp GoStack é um aplicativo de loja que vende produtos. 
+Desafio do Bootcamp GoStack é um aplicativo de loja que adicionar itens ao carrinho e faz a soma do valor total da compra quando adiciona mais itens ou remove. 
 
 <h1>Apresentação do Projeto</h1>
 
